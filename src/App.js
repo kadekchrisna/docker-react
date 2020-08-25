@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hello from the other side!</p>
+        <p>Hello from the other Feature!</p>
       </header>
     </div>
   );
