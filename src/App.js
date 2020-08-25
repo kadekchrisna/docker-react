@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hello from the other Feature!</p>
+        <p>Hello from the other Feature 2!</p>
       </header>
     </div>
   );
